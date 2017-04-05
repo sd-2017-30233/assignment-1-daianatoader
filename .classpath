@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Toader/Desktop/facultate/II/SEM1/bd/alte proiecte/bloodDonation/Blood_donationsystem/BloodDonationSys/dist/lib/com.mysql.jdbc_5.1.5.jar" sourcepath="C:/Users/Toader/Desktop/facultate/III/SEM2/PS/com.mysql.jdbc_5.1.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
